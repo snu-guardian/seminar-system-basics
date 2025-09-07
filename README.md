@@ -3,10 +3,9 @@
 서울대학교 컴퓨터공학부 보안동아리 **Guardian**의 시스템(Linux Userland) 세미나 문서
 
 > **최초 작성일:** 2025.08.25  
-> **최종 개정일:** 2025.09.02 3
+> **최종 개정일:** 2025.09.04  
 > **작성자:** [임준서 CSE](mailto:zirajs7@gmail.com), [강명석 CSE](mailto:tomskang@naver.com)  
 > **최종 개정자:** [임준서 CSE](mailto:zirajs7@gmail.com)  
-> **발표자:** [임준서 CSE](mailto:zirajs7@gmail.com)
 
 ---
 
